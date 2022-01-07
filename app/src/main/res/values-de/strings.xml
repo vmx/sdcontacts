@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SD Contacts</string>
+    <string name="intro">Diese App exportiert alle Kontakte auf die SD-Karte. Bitte wählen Sie das Verzeichnis aus, in das die Kontakte gespeicherty werden sollen.</string>
+    <string name="select_dir">Verzeichnis auswählen</string>
+    <string name="main_text">Die Kontakte werden nun automatisch, in dieses Verzeichnis exportiert, wenn sie verändert werden. Nach jedem Export gibt es eine Benachrichtigung, damit Sie wissen, dass die App immer noch im Hintergrund läuft. Sie müssen die App nie wieder öffnen, das Exportieren wird jederzeit stattfinden, auch wenn das Telefon neu gestartet wird.</string>
+    <string name="notification_title">Kontakte exportiert</string>
+    <string name="notification_text">Die Kontakte wurden erfolgreich exportiert und gespeichert.</string>
+    <string name="exit">Beenden</string>
+    <string name="notification_channel_name">SD Contacts</string>
+    <string name="notification_channel_description">SD Contacts Benachrichtigungen</string>
+    <string name="notification_error_permission_text">Zum Gewähren der benötigten Berechtigungen tippen.</string>
+    <string name="notification_error_permission_title">Berechtigung verweigert</string>
+    <string name="dialog_permissions_title">Zugriff auf Kontakte</string>
+    <string name="dialog_permissions_blocked_permanent">Diese App funktioniert nur, wenn Zugriff auf die Kontakte gegeben ist. Sie haben dauerhaft den Zugriff untersagt, bitte ändern Sie die Einstellungen und erteilen Sie die Berechtigung auf die Kontakte zuzugreifen</string>
+    <string name="dialog_permissions_blocked">Diese App funktioniert nur, wenn Zugriff auf die Kontakte gegeben ist. Bitte erteilen Sie die Berechtigung auf die Kontakte zuzugreifen.</string>
+    <string name="dialog_permissions_button_exit">Beenden</string>
+    <string name="dialog_permissions_button_settings">Einstellungen</string>
+    <string name="dialog_permissions_button_rerequest">Berechtigung nochmals anfragen</string>
+    <string name="dialog_permissions_hibernation_title">Ruhezustand deaktivieren</string>
+    <string name="dialog_permissions_hibernation_text">Diese App läuft im Hintergrund. Standardmäßig werden Apps, die nicht regelmäßig von Hand gestarted werden (wie diese), automatisch nach ein paar Monaten beendet. Um dies zu verhindern, deaktivieren Sie in den Einstellungen unter \"Nicht verwendete Apps\" die Einstellung \"Berechtigungen löschen und Speicherplatz freigeben\".</string>
+    <string name="dialog_permissions_unused_title">Berechtigungsentzug deaktivieren</string>
+    <string name="dialog_permissions_unused_text">Diese App läuft im Hintergrund. Standardmäßig werden bei Apps, die nicht regelmäßig verwendet werden, die gewährten Berechtigungen automatisch nach ein paar Monaten entzogen. Um dies zu verhindern, deaktivieren Sie unter \"Berechtigungen\" die Einstellung \"Berechtigungen entfernen, wenn die App nicht verwendet wird\".</string>
+    <string name="notification_error_directory_text">Um ein anderes Verzeichnis auszuwählen tippen.</string>
+    <string name="notification_error_directory_title">Kontakte können nicht gespeichert werden.</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SD Contacts</string>
+    <string name="intro">This app exports all contacts to the SD card. Please select a directory, where to store the contacts.</string>
+    <string name="select_dir">Select directory</string>
+    <string name="main_text">The contacts will now be exported into that directory automatically whenever they change. You will get a notification after each export, so that you know the application is still running in the background. You won’t need to open this application ever again, the exports will still happen, even if the phone is restarted.</string>
+    <string name="notification_title">Contacts exported</string>
+    <string name="notification_text">Contacts were successfully exported and stored.</string>
+    <string name="exit">Exit</string>
+    <string name="notification_channel_name">SD Contacts</string>
+    <string name="notification_channel_description">SD Contacts notifications</string>
+    <string name="notification_error_permission_text">Tap to grant the required permissions.</string>
+    <string name="notification_error_permission_title">Permission denied</string>
+    <string name="notification_error_directory_text">Tap to select another directory.</string>
+    <string name="notification_error_directory_title">Cannot store contacts</string>
+    <string name="dialog_permissions_title">Access to contacts</string>
+    <string name="dialog_permissions_blocked_permanent">This app only works when accessing the contacts is permitted. You permanently denied the access, please go to the settings and grant the permission to the contacts there.</string>
+    <string name="dialog_permissions_blocked">This app only works when accessing the contacts is permitted. Please grant access to contacts.</string>
+    <string name="dialog_permissions_button_exit">Exit</string>
+    <string name="dialog_permissions_button_settings">Settings</string>
+    <string name="dialog_permissions_button_rerequest">Re-request permission</string>
+    <string name="dialog_permissions_hibernation_title">Disable hibernation</string>
+    <string name="dialog_permissions_hibernation_text">This app runs in the background. By default, apps that are not manually started (like this one) are automatically stopped after a few months. To prevent that, disable in the settings under the \"Unused apps\" section the \"Remove permissions and free up space\" setting.</string>
+    <string name="dialog_permissions_unused_title">Disable permission removal</string>
+    <string name="dialog_permissions_unused_text">This app runs in the background. By default apps that are not actively used will have their granted permissions automatically removed after a few months. To prevent that, disable under \"Permissions\" the \"Remove permissions if app isn\'t used\" setting.</string>
+</resources>
