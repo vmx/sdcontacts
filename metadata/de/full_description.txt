@@ -1,0 +1,3 @@
+Diese App ist für Leute ausgelegt, die ihre Kontakte nicht online synchronisieren wollen, sondern diese lieber lokal auf dem Telefon belassen.
+Dabei gibt es allerdings ein Problem, falls das Telefon kaputtgeht, können alle Kontakte verloren gehen.
+Mit dieser App wird eine Datensicherung aller Kontakte auf der SD-Karte ermöglicht. Sie kann entnommen werden, um die Kontakte auf einem neuen Telefon zu importieren.

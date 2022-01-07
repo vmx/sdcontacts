@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+fdroid
+!fdroid/metadata
