@@ -9,12 +9,14 @@ With this app, you will have a backup of your contacts stored on the SD card. Yo
 
 This App works with Android API level 26 or higher (Android 8.0 Oreo).
 
+[<img src="https://f-droid.org/badge/get-it-on.png"
+      alt="Get it on F-Droid"
+      height="80">](https://f-droid.org/packages/cx.vmx.sdcontacts/)
 
 Thanks
 ------
 
 I'd like to thank [Vikko Okviandho Liem] and [oksmith] for their public domain clip art contributions. They are the basis for the SD Contacts application icon.
-
 
 License
 -------
